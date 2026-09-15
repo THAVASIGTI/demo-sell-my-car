@@ -38,7 +38,7 @@ f:["$","$L1b","/demo-sell-my-car/assets/js/swiper-bundle.min.js",{"src":"/demo-s
 16:["$","$L1b","/demo-sell-my-car/assets/js/main.js",{"src":"/demo-sell-my-car/assets/js/main.js","strategy":"afterInteractive"}]
 17:["$","$1","c",{"children":["$L1c",null,["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]]}]
 18:["$","$1","h",{"children":[null,["$","$L20",null,{"children":"$L21"}],["$","div",null,{"hidden":true,"children":["$","$L22",null,{"children":["$","$1e",null,{"name":"Next.Metadata","children":"$L23"}]}]}],null]}]
-24:T15e36,
+24:T16166,
     <!-- ==================== Preloader Start ==================== -->
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
