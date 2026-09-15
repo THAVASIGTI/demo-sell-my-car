@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[96984,["/sellmycars-dashboard/_next/static/chunks/bf243ee610bed977.js","/sellmycars-dashboard/_next/static/chunks/00a901d743a521c8.js","/sellmycars-dashboard/_next/static/chunks/58d7af790739c8e6.js","/sellmycars-dashboard/_next/static/chunks/987dd205c79eec48.js","/sellmycars-dashboard/_next/static/chunks/1a8f49da7345393b.js"],"default"]
+3:I[97367,["/sellmycars-dashboard/_next/static/chunks/ff1a16fafef87110.js","/sellmycars-dashboard/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"Num-2Hh8IPdwAWBzLu29J","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/sellmycars-dashboard/_next/static/chunks/58d7af790739c8e6.js","async":true}],["$","script","script-1",{"src":"/sellmycars-dashboard/_next/static/chunks/987dd205c79eec48.js","async":true}],["$","script","script-2",{"src":"/sellmycars-dashboard/_next/static/chunks/1a8f49da7345393b.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
