@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T16166,
+2:T16298,
     <!-- ==================== Preloader Start ==================== -->
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
@@ -53,7 +53,7 @@
 
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
-                <a href="/" class="mobile-menu__logo">
+                <a href="/demo-sell-my-car/" class="mobile-menu__logo">
                     <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
@@ -61,16 +61,16 @@
                 <!-- Nav menu Start -->
                 <ul class="list-unstyled nav-menu d-lg-flex align-items-center nav-menu--mobile d-block">
                     <li class="nav-menu__item text-uppercase activePage">
-                        <a href="/">Home</a>
+                        <a href="/demo-sell-my-car/">Home</a>
                     </li>
                     <li class="nav-menu__item text-uppercase">
-                        <a href="/about-us">About Us</a>
+                        <a href="/demo-sell-my-car/about-us">About Us</a>
                     </li>
                     <li class="nav-menu__item text-uppercase">
-                        <a href="/services">Services</a>
+                        <a href="/demo-sell-my-car/services">Services</a>
                     </li>
                     <li class="nav-menu__item text-uppercase">
-                        <a href="/contact-us">Contact Us</a>
+                        <a href="/demo-sell-my-car/contact-us">Contact Us</a>
                     </li>
                 </ul>
                 <!-- Nav menu End  -->
@@ -85,7 +85,7 @@
             <nav class="d-flex align-items-center justify-content-between position-relative">
                 <!-- Logo Start -->
                 <div class="logo">
-                    <a href="/" class="link">
+                    <a href="/demo-sell-my-car/" class="link">
                         <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
@@ -96,17 +96,17 @@
                     <!-- Nav menu Start -->
                     <ul class="list-unstyled nav-menu d-lg-flex align-items-center tw-gap-6 nav-menu-white">
                         <li class="nav-menu__item text-uppercase activePage">
-                            <a href="/">Home</a>
+                            <a href="/demo-sell-my-car/">Home</a>
 
                         </li>
                         <li class="nav-menu__item text-uppercase">
-                            <a href="/about-us">About Us</a>
+                            <a href="/demo-sell-my-car/about-us">About Us</a>
                         </li>
                         <li class="nav-menu__item text-uppercase">
-                            <a href="/services">Services</a>
+                            <a href="/demo-sell-my-car/services">Services</a>
                         </li>
                         <li class="nav-menu__item text-uppercase">
-                            <a href="/contact-us">Contact Us</a>
+                            <a href="/demo-sell-my-car/contact-us">Contact Us</a>
                         </li>
                     </ul>
                     <!-- Nav menu End  -->
@@ -572,7 +572,7 @@
 
                                     <div class="tw-mt-10" data-aos="fade-up" data-aos-duration="800"
                                         data-aos-delay="500">
-                                        <a href="/about-us"
+                                        <a href="/demo-sell-my-car/about-us"
                                             class="btn btn-main-two hover-style-three button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 text-uppercase fw-bolder button-shape tw-tracking-2-percent"
                                             data-block="button">
                                             <span class="button__flair"></span>
@@ -968,7 +968,7 @@
                                     </p>
 
                                     <div class="tw-mt-6">
-                                        <a href="/contact-us"
+                                        <a href="/demo-sell-my-car/contact-us"
                                             class="btn btn-main hover-style-two button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 text-uppercase fw-bolder button-shape shape-bg-black tw-tracking-2-percent"
                                             data-block="button">
                                             <span class="button__flair"></span>
@@ -1048,7 +1048,7 @@
                                     <div class="link-res-gap" data-aos="fade-up" data-aos-duration="800"
                                         data-aos-delay="500">
 
-                                        <a href="/contact-us"
+                                        <a href="/demo-sell-my-car/contact-us"
                                             class="btn btn-main-two hover-style-three button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 text-uppercase fw-bolder button-shape tw-tracking-2-percent"
                                             data-block="button">
 
@@ -1194,7 +1194,7 @@
                                 <!-- Company Info -->
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
-                                        <a href="/">
+                                        <a href="/demo-sell-my-car/">
                                             <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
@@ -1253,20 +1253,20 @@
                                     <h4 class="text-white tw-pb-9">Quick Links</h4>
 
                                     <div class="d-flex flex-column tw-gap-5">
-                                        <a href="/" class="text-dark-light fw-bold hover-text-white">
+                                        <a href="/demo-sell-my-car/" class="text-dark-light fw-bold hover-text-white">
                                             Home
                                         </a>
 
-                                        <a href="/about-us" class="text-dark-light fw-bold hover-text-white">
+                                        <a href="/demo-sell-my-car/about-us" class="text-dark-light fw-bold hover-text-white">
                                             About Us
                                         </a>
 
-                                        <a href="/services" class="text-dark-light fw-bold hover-text-white">
+                                        <a href="/demo-sell-my-car/services" class="text-dark-light fw-bold hover-text-white">
                                             Services
                                         </a>
 
 
-                                        <a href="/contact-us" class="text-dark-light fw-bold hover-text-white">
+                                        <a href="/demo-sell-my-car/contact-us" class="text-dark-light fw-bold hover-text-white">
                                             Contact Us
                                         </a>
                                     </div>
@@ -1402,6 +1402,6 @@
     <!-- main js -->
     
 
-0:{"buildId":"syf3a_evNjta17dEFxXYO","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"2wsdZPLNL0htUPVphS4Fg","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

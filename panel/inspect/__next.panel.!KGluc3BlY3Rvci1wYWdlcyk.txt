@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 2:I[92825,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientSegmentRoot"]
-3:I[8683,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/e693c84c60e31332.js"],"default"]
+3:I[8683,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/93f86b31ecfbed52.js"],"default"]
 4:I[39756,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 5:I[37457,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-7:I[97054,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/e693c84c60e31332.js","/demo-sell-my-car/_next/static/chunks/bea4f7852a72beb2.js"],"default"]
-0:{"buildId":"syf3a_evNjta17dEFxXYO","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/e693c84c60e31332.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":[["$","$L7","l",{"fullscreen":true}],[],[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/bea4f7852a72beb2.js","async":true}]]],"isPartial":false}
+7:I[97054,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/93f86b31ecfbed52.js","/demo-sell-my-car/_next/static/chunks/e7b0533f4ffb1992.js"],"default"]
+0:{"buildId":"2wsdZPLNL0htUPVphS4Fg","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/93f86b31ecfbed52.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":[["$","$L7","l",{"fullscreen":true}],[],[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/e7b0533f4ffb1992.js","async":true}]]],"isPartial":false}
 6:"$0:rsc:props:children:1:props:serverProvidedParams:params"

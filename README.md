@@ -28,10 +28,14 @@ the username selects the role:
 
 ## GitHub Pages setup
 
-This repo contains the pre-built static site at its root. To publish:
+This repo contains the pre-built static site at its root. It is published by
+[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml), so Pages must be
+set to:
 
-**Settings → Pages → Build and deployment → Source: _Deploy from a branch_ →
-Branch: `main` / `/ (root)`.**
+**Settings → Pages → Build and deployment → Source: _GitHub Actions_.**
+
+Do not switch this to "Deploy from a branch" — the workflow uploads the site as
+a Pages artifact, and the branch source would deploy nothing.
 
 The `.nojekyll` file is required (already present) so Pages keeps the `_next/`
 folder that Jekyll would otherwise strip.
@@ -42,11 +46,28 @@ The site is generated from the main app repo (`sellmycars-dashboard`). From that
 repo's `dashboard/` folder:
 
 ```bash
-NEXT_PUBLIC_BASE_PATH=/demo-sell-my-car BASE_PATH=/demo-sell-my-car npm run build:demo
+BASE_PATH=/demo-sell-my-car npm run build:demo
 ```
 
-Then copy the contents of `dashboard/.next-demo/` into this repo's root (keep
-`.nojekyll`). The base path **must** match this repo's name (`/demo-sell-my-car`),
-or the `_next/` asset URLs will 404 on the Pages URL.
+`BASE_PATH` is the single input: `next.config.ts` feeds it to Next's `basePath`
+and mirrors it into `NEXT_PUBLIC_BASE_PATH`, which `src/lib/basePath.ts` uses to
+prefix the `public/` asset paths and the marketing pages' raw `<a href>` links
+that `basePath` alone does not rewrite. It **must** match this repo's name
+(`/demo-sell-my-car`) or those URLs will 404 on the Pages URL.
+
+The build writes `demo_step/` at the root of the app repo; copy its contents
+into this repo's root (keep `.git`, `.github`, `README.md` and `.gitignore`):
+
+```bash
+rsync -a --delete --exclude='.git/' --exclude='.github/' \
+      --exclude='README.md' --exclude='.gitignore' \
+      ../sellmycars-dashboard/demo_step/ ./
+```
+
+Do not hand-edit the exported files to change paths. The marketing pages are
+injected with `dangerouslySetInnerHTML`, so their HTML lands inside a
+length-prefixed React Flight row (`<id>:T<hexlen>,`) in the RSC payload; editing
+that text without recomputing the byte count desyncs the stream and the page
+dies with `enqueueModel is not a function`.
 
 > This folder is generated output — edit the source in the main app repo, not here.

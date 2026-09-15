@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
-3:I[32423,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/bab141355068f6fa.js","/demo-sell-my-car/_next/static/chunks/fe86d60306844dc7.js"],"default"]
+3:I[32423,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/1371e5caa4dc75ec.js","/demo-sell-my-car/_next/static/chunks/9785be9511a2e548.js"],"default"]
 6:I[97367,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"syf3a_evNjta17dEFxXYO","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/fe86d60306844dc7.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"2wsdZPLNL0htUPVphS4Fg","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/9785be9511a2e548.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null
