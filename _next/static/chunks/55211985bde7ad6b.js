@@ -3,7 +3,7 @@
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
             <div class="">
-                <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
             </div>
             <div class="loader">
                 <div></div>
@@ -51,7 +51,7 @@
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
                 <a href="/" class="mobile-menu__logo">
-                    <img src="/assets/images/logo-white.png" alt="Logo">
+                    <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
             <div class="mobile-menu__menu tw-p-6 ">
@@ -83,7 +83,7 @@
                 <!-- Logo Start -->
                 <div class="logo">
                     <a href="/" class="link">
-                        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
                 <!-- Logo End  -->
@@ -116,7 +116,7 @@
                         <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
                             <span
                                 class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
                             </span>
                             <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
                         </div>
@@ -186,7 +186,7 @@
                                     <div
                                         class="position-absolute bottom-0 banner-img d-lg-block d-none animate-bottom-top animation-delay-15">
                                         <div class="">
-                                            <img src="/assets/images/thumbs/banner-img2.png" alt="Banner Mans image">
+                                            <img src="/demo-sell-my-car/assets/images/thumbs/banner-img2.png" alt="Banner Mans image">
                                         </div>
                                     </div>
                                 </div>
@@ -229,7 +229,7 @@
                                     <div
                                         class="position-absolute bottom-0 banner-img d-lg-block d-none animate-bottom-top animation-delay-15">
                                         <div class="">
-                                            <img src="/assets/images/thumbs/banner-img1.png" alt="Banner Mans image">
+                                            <img src="/demo-sell-my-car/assets/images/thumbs/banner-img1.png" alt="Banner Mans image">
                                         </div>
                                     </div>
                                 </div>
@@ -250,7 +250,7 @@
                                     data-aos-duration="800" data-aos-delay="100">
                                     <div class="position-relative">
                                         <span class="">
-                                            <img src="/assets/images/thumbs/experience-img.png" alt="Experience Image">
+                                            <img src="/demo-sell-my-car/assets/images/thumbs/experience-img.png" alt="Experience Image">
                                         </span>
                                         <a href="https://www.youtube.com/watch?v=ezRhyQAup8E"
                                             class="play-button tw-text-2xl d-inline-flex position-absolute start-50 top-50 translate-middle z-1 text--white hover-text-main">
@@ -272,42 +272,42 @@
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="100">
-                                                    <img src="/assets/images/thumbs/brand-img1.png" alt="Brand Logo 1">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img1.png" alt="Brand Logo 1">
                                                 </div>
                                             </div>
                                             <div
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="200">
-                                                    <img src="/assets/images/thumbs/brand-img2.png" alt="Brand Logo 2">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img2.png" alt="Brand Logo 2">
                                                 </div>
                                             </div>
                                             <div
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="300">
-                                                    <img src="/assets/images/thumbs/brand-img3.png" alt="Brand Logo 3">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img3.png" alt="Brand Logo 3">
                                                 </div>
                                             </div>
                                             <div
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="400">
-                                                    <img src="/assets/images/thumbs/brand-img4.png" alt="Brand Logo 4">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img4.png" alt="Brand Logo 4">
                                                 </div>
                                             </div>
                                             <div
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="500">
-                                                    <img src="/assets/images/thumbs/brand-img5.png" alt="Brand Logo 5">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img5.png" alt="Brand Logo 5">
                                                 </div>
                                             </div>
                                             <div
                                                 class="swiper-slide h-100 d-flex align-items-center justify-content-xl-center justify-content-start">
                                                 <div class="text-center" data-aos="fade-up" data-aos-duration="800"
                                                     data-aos-delay="600">
-                                                    <img src="/assets/images/thumbs/brand-img3.png" alt="Brand Logo 3">
+                                                    <img src="/demo-sell-my-car/assets/images/thumbs/brand-img3.png" alt="Brand Logo 3">
                                                 </div>
                                             </div>
                                         </div>
@@ -322,7 +322,7 @@
                 <!-- ========================== About section start ============================== -->
                 <section class="about py-110 position-relative overflow-hidden">
                     <div class="position-absolute top-0 tw-start-0 tw-mt-16 tw-ms-11">
-                        <img src="/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
+                        <img src="/demo-sell-my-car/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
                             class="animated-upDown">
                     </div>
                     <div class="container">
@@ -333,7 +333,7 @@
                                         <div class="col-6">
                                             <div class="d-flex flex-column tw-gap-4 position-relative">
                                                 <div class="position-absolute tw-start-0 top-0 tw-mt-15 tw-pt-7">
-                                                    <img src="/assets/images/shapes/circle-shape.png" alt="Circle Shape"
+                                                    <img src="/demo-sell-my-car/assets/images/shapes/circle-shape.png" alt="Circle Shape"
                                                         class="animation-rotate-right">
                                                 </div>
                                                 <div class="text-end flex-shrink-0 flex-grow-1">
@@ -342,7 +342,7 @@
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img1.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img1.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -354,7 +354,7 @@
                                                     <div class="split-reveal-element origin-left">
                                                         <div
                                                             class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                            <img src="/assets/images/thumbs/about-one-img2.png"
+                                                            <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img2.png"
                                                                 class="object-fit-cover scale-up__img w-100 h-100"
                                                                 alt="Agency Video Image">
                                                         </div>
@@ -370,7 +370,7 @@
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img3.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img3.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -383,7 +383,7 @@
                                                         class="border tw-border-dashed border-white tw-rounded-3xl tw-p-32-px">
                                                         <div class="d-flex align-items-center tw-gap-205 flex-wrap">
                                                             <span class="">
-                                                                <img src="/assets/images/icons/rounded-star-icon.png"
+                                                                <img src="/demo-sell-my-car/assets/images/icons/rounded-star-icon.png"
                                                                     alt="Rounded Star Icon">
                                                             </span>
                                                             <h2 class="h2 text-white">99%</h2>
@@ -610,7 +610,7 @@
                             <!-- 01 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_001.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_001.png" alt="service">
                                     <h4 class="mt-4">Buying Used Cars</h4>
                                     <p>Fast, fair, and transparent vehicle purchasing solutions with competitive market
                                         pricing.</p>
@@ -620,7 +620,7 @@
                             <!-- 02 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_002.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_002.png" alt="service">
                                     <h4 class="mt-4">Selling Used Cars</h4>
                                     <p>Sell your vehicle quickly through our trusted network of buyers and automotive
                                         professionals.</p>
@@ -630,7 +630,7 @@
                             <!-- 03 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_003.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_003.png" alt="service">
                                     <h4 class="mt-4">Trade-In Services</h4>
                                     <p>Upgrade your vehicle with convenient trade-in solutions and fair market
                                         evaluations.</p>
@@ -640,7 +640,7 @@
                             <!-- 04 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_004.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_004.png" alt="service">
                                     <h4 class="mt-4">Car Financing Assistance</h4>
                                     <p>Professional guidance to help customers obtain suitable vehicle financing
                                         options.</p>
@@ -650,7 +650,7 @@
                             <!-- 05 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_005.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_005.png" alt="service">
                                     <h4 class="mt-4">Vehicle Inspection Services</h4>
                                     <p>Detailed inspections ensuring transparency, quality assurance, and peace of mind.
                                     </p>
@@ -660,7 +660,7 @@
                             <!-- 06 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_006.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_006.png" alt="service">
                                     <h4 class="mt-4">Car Valuation Services</h4>
                                     <p>Accurate market-based vehicle valuation for buying, selling, and trade-in
                                         decisions.</p>
@@ -670,7 +670,7 @@
                             <!-- 07 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_007.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_007.png" alt="service">
                                     <h4 class="mt-4">Luxury Car Trading</h4>
                                     <p>Premium automotive trading services for luxury and high-end vehicle buyers.</p>
                                 </div>
@@ -679,7 +679,7 @@
                             <!-- 08 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_008.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_008.png" alt="service">
                                     <h4 class="mt-4">Export & Import Services</h4>
                                     <p>Reliable international vehicle export and import solutions with full
                                         documentation support.</p>
@@ -689,7 +689,7 @@
                             <!-- 09 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_009.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_009.png" alt="service">
                                     <h4 class="mt-4">Consignment Sales</h4>
                                     <p>Professional vehicle marketing and sales services designed to maximize value.</p>
                                 </div>
@@ -698,7 +698,7 @@
                             <!-- 10 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_010.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_010.png" alt="service">
                                     <h4 class="mt-4">Fleet Sales Solutions</h4>
                                     <p>Customized fleet acquisition and disposal services for businesses and
                                         organizations.</p>
@@ -708,7 +708,7 @@
                             <!-- 11 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_011.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_011.png" alt="service">
                                     <h4 class="mt-4">Vehicle Registration Assistance</h4>
                                     <p>Simplified registration and ownership transfer services for hassle-free
                                         transactions.</p>
@@ -718,7 +718,7 @@
                             <!-- 12 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_012.png" alt="">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_012.png" alt="">
                                     <h4 class="mt-4">Insurance Assistance</h4>
                                     <p>Expert support in selecting suitable insurance solutions for complete vehicle
                                         protection.</p>
@@ -728,7 +728,7 @@
                             <!-- 13 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_013.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_013.png" alt="service">
                                     <h4 class="mt-4">After-Sales Support</h4>
                                     <p>Dedicated customer assistance and guidance even after the transaction is
                                         completed.</p>
@@ -738,7 +738,7 @@
                             <!-- 14 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_014.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_014.png" alt="service">
                                     <h4 class="mt-4">Home Vehicle Inspection & Assistance</h4>
                                     <p>Convenient doorstep vehicle inspection and evaluation services for added customer
                                         comfort.</p>
@@ -753,7 +753,7 @@
                 <!-- ===================== Book Appointment section start ========================= -->
                 <section class="book-appointment bg-main-two py-110 position-relative z-1 overflow-hidden"
                     id="valuation">
-                    <img src="/assets/images/thumbs/book-appointment-light-img.png" alt="Book Appointment Light Image"
+                    <img src="/demo-sell-my-car/assets/images/thumbs/book-appointment-light-img.png" alt="Book Appointment Light Image"
                         class="position-absolute bottom-0 tw-start-0 z-n1">
 
                     <div class="container">
@@ -905,7 +905,7 @@
                     <div
                         class="book-appointment__thumb w-40-percent position-absolute tw-end-0 top-0 h-100 d-lg-block d-none">
                         <div class="hover-animation-white scale-up-wrapper position-relative overflow-hidden h-100">
-                            <img src="/assets/images/thumbs/book-appointment-img.png"
+                            <img src="/demo-sell-my-car/assets/images/thumbs/book-appointment-img.png"
                                 class="object-fit-cover scale-up__img w-100 h-100 object-fit-cover"
                                 alt="Agency Video Image">
                         </div>
@@ -929,7 +929,7 @@
                                 <div
                                     class="d-flex align-items-center flex-sm-nowrap flex-wrap tw-gap-10 border-lg-end position-relative">
                                     <div class="before-right-bg position-relative tw-rounded-2xl z-1 flex-shrink-0">
-                                        <img src="/assets/images/thumbs/cta-img.png" alt="Sell My Cars UAE">
+                                        <img src="/demo-sell-my-car/assets/images/thumbs/cta-img.png" alt="Sell My Cars UAE">
                                     </div>
                                     <div>
                                         <h2 class="text-white fw-medium">Ready to Sell Your Car?</h2>
@@ -989,11 +989,11 @@
                 <!-- ======================= Choose Us section start ========================= -->
                 <section class="choose-us-one pt-110 pb-60 position-relative z-1 overflow-hidde">
                     <div class="position-absolute top-0 tw-start-0 item-visible-in-big-screen">
-                        <img src="/assets/images/shapes/wheel-spot-shape-two.png" alt="Wheel Shape Two Img">
+                        <img src="/demo-sell-my-car/assets/images/shapes/wheel-spot-shape-two.png" alt="Wheel Shape Two Img">
                     </div>
 
                     <div class="position-absolute top-100 tw-end-0 translate-middle-y z-n1">
-                        <img src="/assets/images/shapes/automobile-img.png" alt="Wheel Shape Two Img"
+                        <img src="/demo-sell-my-car/assets/images/shapes/automobile-img.png" alt="Wheel Shape Two Img"
                             class="item-goes-bottom-on-scroll">
                     </div>
 
@@ -1036,7 +1036,7 @@
 
                                         <div class="item-rotate-on-scroll d-sm-block d-none">
                                             <div data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="600">
-                                                <img src="/assets/images/shapes/wheel2.png" alt="Wheel Image"
+                                                <img src="/demo-sell-my-car/assets/images/shapes/wheel2.png" alt="Wheel Image"
                                                     class="animation-rotate-right">
                                             </div>
                                         </div>
@@ -1065,7 +1065,7 @@
                                         data-aos-delay="500">
 
                                         <div class="hover-animation-white scale-up-wrapper tw-rounded-2xl">
-                                            <img src="/assets/images/thumbs/choose-us-img.png" alt="Service Image 1"
+                                            <img src="/demo-sell-my-car/assets/images/thumbs/choose-us-img.png" alt="Service Image 1"
                                                 class="tw-rounded-2xl object-fit-cover scale-up__img w-100 h-100">
                                         </div>
 
@@ -1083,7 +1083,7 @@
 
                                             <div
                                                 class="choose-us-item__icon d-flex align-items-center justify-content-center flex-shrink-0 bg-main tw-duration-300 group-hover-bg-main-two position-relative">
-                                                <img src="/assets/images/icons/choose-us-icon1.png"
+                                                <img src="/demo-sell-my-car/assets/images/icons/choose-us-icon1.png"
                                                     alt="Choose Us Icon 1">
                                             </div>
 
@@ -1106,7 +1106,7 @@
 
                                             <div
                                                 class="choose-us-item__icon d-flex align-items-center justify-content-center flex-shrink-0 bg-main tw-duration-300 group-hover-bg-main-two position-relative">
-                                                <img src="/assets/images/icons/choose-us-icon2.png"
+                                                <img src="/demo-sell-my-car/assets/images/icons/choose-us-icon2.png"
                                                     alt="Choose Us Icon 2">
                                             </div>
 
@@ -1129,7 +1129,7 @@
 
                                             <div
                                                 class="choose-us-item__icon d-flex align-items-center justify-content-center flex-shrink-0 bg-main tw-duration-300 group-hover-bg-main-two position-relative">
-                                                <img src="/assets/images/icons/choose-us-icon3.png"
+                                                <img src="/demo-sell-my-car/assets/images/icons/choose-us-icon3.png"
                                                     alt="Choose Us Icon 3">
                                             </div>
 
@@ -1152,7 +1152,7 @@
 
                                             <div
                                                 class="choose-us-item__icon d-flex align-items-center justify-content-center flex-shrink-0 bg-main tw-duration-300 group-hover-bg-main-two position-relative">
-                                                <img src="/assets/images/icons/choose-us-icon4.png"
+                                                <img src="/demo-sell-my-car/assets/images/icons/choose-us-icon4.png"
                                                     alt="Choose Us Icon 4">
                                             </div>
 
@@ -1182,7 +1182,7 @@
                 <footer class="footer position-relative z-1 mt-auto overflow-hidden">
                     <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
                         <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-                            <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+                            <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
                         </div>
 
                         <div class="container container-two">
@@ -1192,7 +1192,7 @@
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
                                         <a href="/">
-                                            <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                                            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
                                         <p class="text-dark-light tw-mt-8 fw-medium">
@@ -1205,7 +1205,7 @@
                                         <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                                             <span
                                                 class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                                                <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                                             </span>
 
                                             <a href="tel:+045798079"
@@ -1355,7 +1355,7 @@
     <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
         target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-        <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+        <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
     </a>
 
     <style>
@@ -1404,7 +1404,7 @@
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
             <div class="">
-                <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
             </div>
             <div class="loader">
                 <div></div>
@@ -1452,7 +1452,7 @@
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
                 <a href="/" class="mobile-menu__logo">
-                    <img src="/assets/images/logo-white.png" alt="Logo">
+                    <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
             <div class="mobile-menu__menu tw-p-6 ">
@@ -1484,7 +1484,7 @@
                 <!-- Logo Start -->
                 <div class="logo">
                     <a href="/" class="link">
-                        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
                 <!-- Logo End  -->
@@ -1517,7 +1517,7 @@
                         <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
                             <span
                                 class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
                             </span>
                             <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
                         </div>
@@ -1598,7 +1598,7 @@
                             <!-- 01 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_001.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_001.png" alt="service">
                                     <h4 class="mt-4">Buying Used Cars</h4>
                                     <p>Fast, fair, and transparent vehicle purchasing solutions with competitive market
                                         pricing.</p>
@@ -1608,7 +1608,7 @@
                             <!-- 02 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_002.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_002.png" alt="service">
                                     <h4 class="mt-4">Selling Used Cars</h4>
                                     <p>Sell your vehicle quickly through our trusted network of buyers and automotive
                                         professionals.</p>
@@ -1618,7 +1618,7 @@
                             <!-- 03 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_003.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_003.png" alt="service">
                                     <h4 class="mt-4">Trade-In Services</h4>
                                     <p>Upgrade your vehicle with convenient trade-in solutions and fair market
                                         evaluations.</p>
@@ -1628,7 +1628,7 @@
                             <!-- 04 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_004.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_004.png" alt="service">
                                     <h4 class="mt-4">Car Financing Assistance</h4>
                                     <p>Professional guidance to help customers obtain suitable vehicle financing
                                         options.</p>
@@ -1638,7 +1638,7 @@
                             <!-- 05 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_005.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_005.png" alt="service">
                                     <h4 class="mt-4">Vehicle Inspection Services</h4>
                                     <p>Detailed inspections ensuring transparency, quality assurance, and peace of mind.
                                     </p>
@@ -1648,7 +1648,7 @@
                             <!-- 06 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_006.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_006.png" alt="service">
                                     <h4 class="mt-4">Car Valuation Services</h4>
                                     <p>Accurate market-based vehicle valuation for buying, selling, and trade-in
                                         decisions.</p>
@@ -1658,7 +1658,7 @@
                             <!-- 07 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_007.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_007.png" alt="service">
                                     <h4 class="mt-4">Luxury Car Trading</h4>
                                     <p>Premium automotive trading services for luxury and high-end vehicle buyers.</p>
                                 </div>
@@ -1667,7 +1667,7 @@
                             <!-- 08 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_008.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_008.png" alt="service">
                                     <h4 class="mt-4">Export & Import Services</h4>
                                     <p>Reliable international vehicle export and import solutions with full
                                         documentation support.</p>
@@ -1677,7 +1677,7 @@
                             <!-- 09 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_009.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_009.png" alt="service">
                                     <h4 class="mt-4">Consignment Sales</h4>
                                     <p>Professional vehicle marketing and sales services designed to maximize value.</p>
                                 </div>
@@ -1686,7 +1686,7 @@
                             <!-- 10 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_010.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_010.png" alt="service">
                                     <h4 class="mt-4">Fleet Sales Solutions</h4>
                                     <p>Customized fleet acquisition and disposal services for businesses and
                                         organizations.</p>
@@ -1696,7 +1696,7 @@
                             <!-- 11 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_011.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_011.png" alt="service">
                                     <h4 class="mt-4">Vehicle Registration Assistance</h4>
                                     <p>Simplified registration and ownership transfer services for hassle-free
                                         transactions.</p>
@@ -1706,7 +1706,7 @@
                             <!-- 12 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_012.png" alt="">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_012.png" alt="">
                                     <h4 class="mt-4">Insurance Assistance</h4>
                                     <p>Expert support in selecting suitable insurance solutions for complete vehicle
                                         protection.</p>
@@ -1716,7 +1716,7 @@
                             <!-- 13 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_013.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_013.png" alt="service">
                                     <h4 class="mt-4">After-Sales Support</h4>
                                     <p>Dedicated customer assistance and guidance even after the transaction is
                                         completed.</p>
@@ -1726,7 +1726,7 @@
                             <!-- 14 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_014.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_014.png" alt="service">
                                     <h4 class="mt-4">Home Vehicle Inspection & Assistance</h4>
                                     <p>Convenient doorstep vehicle inspection and evaluation services for added customer
                                         comfort.</p>
@@ -1741,7 +1741,7 @@
                 <footer class="footer position-relative z-1 mt-auto overflow-hidden">
                     <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
                         <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-                            <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+                            <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
                         </div>
 
                         <div class="container container-two">
@@ -1751,7 +1751,7 @@
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
                                         <a href="/">
-                                            <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                                            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
                                         <p class="text-dark-light tw-mt-8 fw-medium">
@@ -1764,7 +1764,7 @@
                                         <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                                             <span
                                                 class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                                                <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                                             </span>
 
                                             <a href="tel:+045798079"
@@ -1914,7 +1914,7 @@
     <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
         target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-        <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+        <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
     </a>
 
     <style>
@@ -1963,7 +1963,7 @@
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
             <div class="">
-                <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
             </div>
             <div class="loader">
                 <div></div>
@@ -2011,7 +2011,7 @@
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
                 <a href="/" class="mobile-menu__logo">
-                    <img src="/assets/images/logo-white.png" alt="Logo">
+                    <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
             <div class="mobile-menu__menu tw-p-6 ">
@@ -2043,7 +2043,7 @@
                 <!-- Logo Start -->
                 <div class="logo">
                     <a href="/" class="link">
-                        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
                 <!-- Logo End  -->
@@ -2076,7 +2076,7 @@
                         <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
                             <span
                                 class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
                             </span>
                             <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
                         </div>
@@ -2141,7 +2141,7 @@
                 <!-- ========================== About section start ============================== -->
                 <section class="about py-110 position-relative overflow-hidden">
                     <div class="position-absolute top-0 tw-start-0 tw-mt-16 tw-ms-11">
-                        <img src="/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
+                        <img src="/demo-sell-my-car/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
                             class="animated-upDown">
                     </div>
                     <div class="container">
@@ -2152,7 +2152,7 @@
                                         <div class="col-6">
                                             <div class="d-flex flex-column tw-gap-4 position-relative">
                                                 <div class="position-absolute tw-start-0 top-0 tw-mt-15 tw-pt-7">
-                                                    <img src="/assets/images/shapes/circle-shape.png" alt="Circle Shape"
+                                                    <img src="/demo-sell-my-car/assets/images/shapes/circle-shape.png" alt="Circle Shape"
                                                         class="animation-rotate-right">
                                                 </div>
                                                 <div class="text-end flex-shrink-0 flex-grow-1">
@@ -2161,7 +2161,7 @@
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img1.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img1.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -2173,7 +2173,7 @@
                                                     <div class="split-reveal-element origin-left">
                                                         <div
                                                             class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                            <img src="/assets/images/thumbs/about-one-img2.png"
+                                                            <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img2.png"
                                                                 class="object-fit-cover scale-up__img w-100 h-100"
                                                                 alt="Agency Video Image">
                                                         </div>
@@ -2189,7 +2189,7 @@
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img3.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img3.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -2202,7 +2202,7 @@
                                                         class="border tw-border-dashed border-white tw-rounded-3xl tw-p-32-px">
                                                         <div class="d-flex align-items-center tw-gap-205 flex-wrap">
                                                             <span class="">
-                                                                <img src="/assets/images/icons/rounded-star-icon.png"
+                                                                <img src="/demo-sell-my-car/assets/images/icons/rounded-star-icon.png"
                                                                     alt="Rounded Star Icon">
                                                             </span>
                                                             <h2 class="h2 text-white">99%</h2>
@@ -2388,7 +2388,7 @@
 
                                     <div class="tw-mt-10" data-aos="fade-up" data-aos-duration="800"
                                         data-aos-delay="500">
-                                        <a href="/assets/images/sellmycars-company-profile.pdf" target="_blank"
+                                        <a href="/demo-sell-my-car/assets/images/sellmycars-company-profile.pdf" target="_blank"
                                             class="btn btn-main-two hover-style-three button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 text-uppercase fw-bolder button-shape tw-tracking-2-percent"
                                             data-block="button">
                                             <span class="button__flair"></span>
@@ -2410,7 +2410,7 @@
                 <footer class="footer position-relative z-1 mt-auto overflow-hidden">
                     <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
                         <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-                            <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+                            <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
                         </div>
 
                         <div class="container container-two">
@@ -2420,7 +2420,7 @@
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
                                         <a href="/">
-                                            <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                                            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
                                         <p class="text-dark-light tw-mt-8 fw-medium">
@@ -2433,7 +2433,7 @@
                                         <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                                             <span
                                                 class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                                                <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                                             </span>
 
                                             <a href="tel:+045798079"
@@ -2583,7 +2583,7 @@
     <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
         target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-        <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+        <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
     </a>
 
     <style>
@@ -2632,7 +2632,7 @@
   <div class="loader-mask">
     <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
       <div class="">
-        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
       </div>
       <div class="loader">
         <div></div>
@@ -2680,7 +2680,7 @@
     <div class="mobile-menu__inner ">
       <div class="tw-p-6 bg-main">
         <a href="/" class="mobile-menu__logo">
-          <img src="/assets/images/logo-white.png" alt="Logo">
+          <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
         </a>
       </div>
       <div class="mobile-menu__menu tw-p-6 ">
@@ -2712,7 +2712,7 @@
         <!-- Logo Start -->
         <div class="logo">
           <a href="/" class="link">
-            <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
           </a>
         </div>
         <!-- Logo End  -->
@@ -2744,7 +2744,7 @@
           <div class="d-flex align-items-center tw-gap-6 flex-shrink-0">
             <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
               <span class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
               </span>
               <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
             </div>
@@ -2897,7 +2897,7 @@
         <footer class="footer position-relative z-1 mt-auto overflow-hidden">
           <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
             <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-              <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+              <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
             </div>
 
             <div class="container container-two">
@@ -2907,7 +2907,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                   <div class="max-w-370-px">
                     <a href="/">
-                      <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                      <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                     </a>
 
                     <p class="text-dark-light tw-mt-8 fw-medium">
@@ -2920,7 +2920,7 @@
                     <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                       <span
                         class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                        <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                        <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                       </span>
 
                       <a href="tel:+045798079" class="text-white fw-bold hover-underline tw-text-xl">
@@ -3064,7 +3064,7 @@
   <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
     target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-    <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+    <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
   </a>
 
   <style>

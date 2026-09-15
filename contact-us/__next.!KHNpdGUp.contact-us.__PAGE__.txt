@@ -6,7 +6,7 @@
   <div class="loader-mask">
     <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
       <div class="">
-        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
       </div>
       <div class="loader">
         <div></div>
@@ -54,7 +54,7 @@
     <div class="mobile-menu__inner ">
       <div class="tw-p-6 bg-main">
         <a href="/" class="mobile-menu__logo">
-          <img src="/assets/images/logo-white.png" alt="Logo">
+          <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
         </a>
       </div>
       <div class="mobile-menu__menu tw-p-6 ">
@@ -86,7 +86,7 @@
         <!-- Logo Start -->
         <div class="logo">
           <a href="/" class="link">
-            <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
           </a>
         </div>
         <!-- Logo End  -->
@@ -118,7 +118,7 @@
           <div class="d-flex align-items-center tw-gap-6 flex-shrink-0">
             <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
               <span class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
               </span>
               <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
             </div>
@@ -271,7 +271,7 @@
         <footer class="footer position-relative z-1 mt-auto overflow-hidden">
           <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
             <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-              <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+              <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
             </div>
 
             <div class="container container-two">
@@ -281,7 +281,7 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                   <div class="max-w-370-px">
                     <a href="/">
-                      <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                      <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                     </a>
 
                     <p class="text-dark-light tw-mt-8 fw-medium">
@@ -294,7 +294,7 @@
                     <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                       <span
                         class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                        <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                        <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                       </span>
 
                       <a href="tel:+045798079" class="text-white fw-bold hover-underline tw-text-xl">
@@ -438,7 +438,7 @@
   <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
     target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-    <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+    <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
   </a>
 
   <style>

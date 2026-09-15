@@ -6,7 +6,7 @@
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
             <div class="">
-                <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
             </div>
             <div class="loader">
                 <div></div>
@@ -54,7 +54,7 @@
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
                 <a href="/" class="mobile-menu__logo">
-                    <img src="/assets/images/logo-white.png" alt="Logo">
+                    <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
             <div class="mobile-menu__menu tw-p-6 ">
@@ -86,7 +86,7 @@
                 <!-- Logo Start -->
                 <div class="logo">
                     <a href="/" class="link">
-                        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
                 <!-- Logo End  -->
@@ -119,7 +119,7 @@
                         <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
                             <span
                                 class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
                             </span>
                             <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
                         </div>
@@ -200,7 +200,7 @@
                             <!-- 01 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_001.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_001.png" alt="service">
                                     <h4 class="mt-4">Buying Used Cars</h4>
                                     <p>Fast, fair, and transparent vehicle purchasing solutions with competitive market
                                         pricing.</p>
@@ -210,7 +210,7 @@
                             <!-- 02 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_002.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_002.png" alt="service">
                                     <h4 class="mt-4">Selling Used Cars</h4>
                                     <p>Sell your vehicle quickly through our trusted network of buyers and automotive
                                         professionals.</p>
@@ -220,7 +220,7 @@
                             <!-- 03 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_003.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_003.png" alt="service">
                                     <h4 class="mt-4">Trade-In Services</h4>
                                     <p>Upgrade your vehicle with convenient trade-in solutions and fair market
                                         evaluations.</p>
@@ -230,7 +230,7 @@
                             <!-- 04 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_004.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_004.png" alt="service">
                                     <h4 class="mt-4">Car Financing Assistance</h4>
                                     <p>Professional guidance to help customers obtain suitable vehicle financing
                                         options.</p>
@@ -240,7 +240,7 @@
                             <!-- 05 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_005.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_005.png" alt="service">
                                     <h4 class="mt-4">Vehicle Inspection Services</h4>
                                     <p>Detailed inspections ensuring transparency, quality assurance, and peace of mind.
                                     </p>
@@ -250,7 +250,7 @@
                             <!-- 06 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_006.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_006.png" alt="service">
                                     <h4 class="mt-4">Car Valuation Services</h4>
                                     <p>Accurate market-based vehicle valuation for buying, selling, and trade-in
                                         decisions.</p>
@@ -260,7 +260,7 @@
                             <!-- 07 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_007.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_007.png" alt="service">
                                     <h4 class="mt-4">Luxury Car Trading</h4>
                                     <p>Premium automotive trading services for luxury and high-end vehicle buyers.</p>
                                 </div>
@@ -269,7 +269,7 @@
                             <!-- 08 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_008.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_008.png" alt="service">
                                     <h4 class="mt-4">Export & Import Services</h4>
                                     <p>Reliable international vehicle export and import solutions with full
                                         documentation support.</p>
@@ -279,7 +279,7 @@
                             <!-- 09 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_009.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_009.png" alt="service">
                                     <h4 class="mt-4">Consignment Sales</h4>
                                     <p>Professional vehicle marketing and sales services designed to maximize value.</p>
                                 </div>
@@ -288,7 +288,7 @@
                             <!-- 10 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_010.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_010.png" alt="service">
                                     <h4 class="mt-4">Fleet Sales Solutions</h4>
                                     <p>Customized fleet acquisition and disposal services for businesses and
                                         organizations.</p>
@@ -298,7 +298,7 @@
                             <!-- 11 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_011.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_011.png" alt="service">
                                     <h4 class="mt-4">Vehicle Registration Assistance</h4>
                                     <p>Simplified registration and ownership transfer services for hassle-free
                                         transactions.</p>
@@ -308,7 +308,7 @@
                             <!-- 12 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_012.png" alt="">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_012.png" alt="">
                                     <h4 class="mt-4">Insurance Assistance</h4>
                                     <p>Expert support in selecting suitable insurance solutions for complete vehicle
                                         protection.</p>
@@ -318,7 +318,7 @@
                             <!-- 13 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_013.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_013.png" alt="service">
                                     <h4 class="mt-4">After-Sales Support</h4>
                                     <p>Dedicated customer assistance and guidance even after the transaction is
                                         completed.</p>
@@ -328,7 +328,7 @@
                             <!-- 14 -->
                             <div class="col-lg-3 col-md-6">
                                 <div class="text-center">
-                                    <img src="/assets/images/thumbs/ser_img_014.png" alt="service">
+                                    <img src="/demo-sell-my-car/assets/images/thumbs/ser_img_014.png" alt="service">
                                     <h4 class="mt-4">Home Vehicle Inspection & Assistance</h4>
                                     <p>Convenient doorstep vehicle inspection and evaluation services for added customer
                                         comfort.</p>
@@ -343,7 +343,7 @@
                 <footer class="footer position-relative z-1 mt-auto overflow-hidden">
                     <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
                         <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-                            <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+                            <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
                         </div>
 
                         <div class="container container-two">
@@ -353,7 +353,7 @@
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
                                         <a href="/">
-                                            <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                                            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
                                         <p class="text-dark-light tw-mt-8 fw-medium">
@@ -366,7 +366,7 @@
                                         <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                                             <span
                                                 class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                                                <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                                             </span>
 
                                             <a href="tel:+045798079"
@@ -516,7 +516,7 @@
     <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
         target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-        <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+        <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
     </a>
 
     <style>

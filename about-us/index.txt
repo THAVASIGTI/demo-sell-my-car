@@ -8,34 +8,34 @@
 1a:I[46900,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 :HL["/demo-sell-my-car/_next/static/chunks/68aa0fee38862b60.css","style"]
 :HL["/demo-sell-my-car/_next/static/chunks/0781faae427c77ef.css","style"]
-:HL["/assets/css/bootstrap.min.css","style"]
-:HL["/assets/css/fontawesome.min.css","style"]
-:HL["/assets/css/aos.css","style"]
-:HL["/assets/css/swiper-bundle.min.css","style"]
-:HL["/assets/css/magnific-popup.css","style"]
-:HL["/assets/css/main.css","style"]
-0:{"P":null,"b":"syf3a_evNjta17dEFxXYO","c":["","about-us",""],"q":"","i":false,"f":[[["",{"children":["(site)",{"children":["about-us",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/demo-sell-my-car/_next/static/chunks/68aa0fee38862b60.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/demo-sell-my-car/_next/static/chunks/0781faae427c77ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"dark:bg-gray-900","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1","children":[[["$","div",null,{"className":"absolute right-0 top-0 -z-1 w-full max-w-[250px] xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/images/shape/grid-01.svg","alt":"grid"}]}],["$","div",null,{"className":"absolute bottom-0 left-0 -z-1 w-full max-w-[250px] rotate-180 xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/images/shape/grid-01.svg","alt":"grid"}]}]],["$","div",null,{"className":"mx-auto w-full max-w-[242px] text-center sm:max-w-[472px]","children":[["$","h1",null,{"className":"mb-8 font-bold text-gray-800 text-title-md dark:text-white/90 xl:text-title-2xl","children":"ERROR"}],["$","$L6",null,{"src":"/images/error/404.svg","alt":"404","className":"dark:hidden","width":472,"height":152}],["$","$L6",null,{"src":"/images/error/404-dark.svg","alt":"404","className":"hidden dark:block","width":472,"height":152}],["$","p",null,{"className":"mt-10 mb-6 text-base text-gray-700 dark:text-gray-400 sm:text-lg","children":"We can’t seem to find the page you are looking for!"}],["$","$L7",null,{"href":"/panel","className":"inline-flex items-center justify-center rounded-lg border border-gray-300 bg-white px-5 py-3.5 text-sm font-medium text-gray-700 shadow-theme-xs hover:bg-gray-50 hover:text-gray-800 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-white/[0.03] dark:hover:text-gray-200","children":"Back to Home Page"}]]}],["$","p",null,{"className":"absolute text-sm text-center text-gray-500 -translate-x-1/2 bottom-6 left-1/2 dark:text-gray-400","children":["© ",2026," - SellMyCars"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/1bd25ab4ee574967.js","async":true,"nonce":"$undefined"}]],["$","div",null,{"className":"smc-site","children":[["$","link",null,{"rel":"stylesheet","href":"/assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/fontawesome.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/aos.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/swiper-bundle.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/magnific-popup.css"}],["$","link",null,{"rel":"stylesheet","href":"/assets/css/main.css"}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1","children":[[["$","div",null,{"className":"absolute right-0 top-0 -z-1 w-full max-w-[250px] xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/images/shape/grid-01.svg","alt":"grid"}]}],["$","div",null,{"className":"absolute bottom-0 left-0 -z-1 w-full max-w-[250px] rotate-180 xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/images/shape/grid-01.svg","alt":"grid"}]}]],["$","div",null,{"className":"mx-auto w-full max-w-[242px] text-center sm:max-w-[472px]","children":[["$","h1",null,{"className":"mb-8 font-bold text-gray-800 text-title-md dark:text-white/90 xl:text-title-2xl","children":"ERROR"}],["$","$L6",null,{"src":"/images/error/404.svg","alt":"404","className":"dark:hidden","width":472,"height":152}],"$L8","$L9","$La"]}],"$Lb"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc",["$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]]}]]}],{"children":["$L17",{"children":["$L18",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L19",false]],"m":"$undefined","G":["$1a",[]],"S":true}
+:HL["/demo-sell-my-car/assets/css/bootstrap.min.css","style"]
+:HL["/demo-sell-my-car/assets/css/fontawesome.min.css","style"]
+:HL["/demo-sell-my-car/assets/css/aos.css","style"]
+:HL["/demo-sell-my-car/assets/css/swiper-bundle.min.css","style"]
+:HL["/demo-sell-my-car/assets/css/magnific-popup.css","style"]
+:HL["/demo-sell-my-car/assets/css/main.css","style"]
+0:{"P":null,"b":"syf3a_evNjta17dEFxXYO","c":["","about-us",""],"q":"","i":false,"f":[[["",{"children":["(site)",{"children":["about-us",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/demo-sell-my-car/_next/static/chunks/68aa0fee38862b60.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/demo-sell-my-car/_next/static/chunks/0781faae427c77ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"dark:bg-gray-900","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1","children":[[["$","div",null,{"className":"absolute right-0 top-0 -z-1 w-full max-w-[250px] xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/demo-sell-my-car/images/shape/grid-01.svg","alt":"grid"}]}],["$","div",null,{"className":"absolute bottom-0 left-0 -z-1 w-full max-w-[250px] rotate-180 xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/demo-sell-my-car/images/shape/grid-01.svg","alt":"grid"}]}]],["$","div",null,{"className":"mx-auto w-full max-w-[242px] text-center sm:max-w-[472px]","children":[["$","h1",null,{"className":"mb-8 font-bold text-gray-800 text-title-md dark:text-white/90 xl:text-title-2xl","children":"ERROR"}],["$","$L6",null,{"src":"/demo-sell-my-car/images/error/404.svg","alt":"404","className":"dark:hidden","width":472,"height":152}],["$","$L6",null,{"src":"/demo-sell-my-car/images/error/404-dark.svg","alt":"404","className":"hidden dark:block","width":472,"height":152}],["$","p",null,{"className":"mt-10 mb-6 text-base text-gray-700 dark:text-gray-400 sm:text-lg","children":"We can’t seem to find the page you are looking for!"}],["$","$L7",null,{"href":"/panel","className":"inline-flex items-center justify-center rounded-lg border border-gray-300 bg-white px-5 py-3.5 text-sm font-medium text-gray-700 shadow-theme-xs hover:bg-gray-50 hover:text-gray-800 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-white/[0.03] dark:hover:text-gray-200","children":"Back to Home Page"}]]}],["$","p",null,{"className":"absolute text-sm text-center text-gray-500 -translate-x-1/2 bottom-6 left-1/2 dark:text-gray-400","children":["© ",2026," - SellMyCars"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/demo-sell-my-car/_next/static/chunks/1bd25ab4ee574967.js","async":true,"nonce":"$undefined"}]],["$","div",null,{"className":"smc-site","children":[["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/fontawesome.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/aos.css"}],["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/swiper-bundle.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/magnific-popup.css"}],["$","link",null,{"rel":"stylesheet","href":"/demo-sell-my-car/assets/css/main.css"}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1","children":[[["$","div",null,{"className":"absolute right-0 top-0 -z-1 w-full max-w-[250px] xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/demo-sell-my-car/images/shape/grid-01.svg","alt":"grid"}]}],["$","div",null,{"className":"absolute bottom-0 left-0 -z-1 w-full max-w-[250px] rotate-180 xl:max-w-[450px]","children":["$","$L6",null,{"width":540,"height":254,"src":"/demo-sell-my-car/images/shape/grid-01.svg","alt":"grid"}]}]],["$","div",null,{"className":"mx-auto w-full max-w-[242px] text-center sm:max-w-[472px]","children":[["$","h1",null,{"className":"mb-8 font-bold text-gray-800 text-title-md dark:text-white/90 xl:text-title-2xl","children":"ERROR"}],["$","$L6",null,{"src":"/demo-sell-my-car/images/error/404.svg","alt":"404","className":"dark:hidden","width":472,"height":152}],"$L8","$L9","$La"]}],"$Lb"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$Lc",["$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]]}]]}],{"children":["$L17",{"children":["$L18",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L19",false]],"m":"$undefined","G":["$1a",[]],"S":true}
 1b:I[61049,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/1bd25ab4ee574967.js"],"default"]
 1c:I[79520,["/demo-sell-my-car/_next/static/chunks/bf243ee610bed977.js","/demo-sell-my-car/_next/static/chunks/1bd25ab4ee574967.js"],""]
 1e:I[97367,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 1f:"$Sreact.suspense"
 21:I[97367,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
 23:I[97367,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
-8:["$","$L6",null,{"src":"/images/error/404-dark.svg","alt":"404","className":"hidden dark:block","width":472,"height":152}]
+8:["$","$L6",null,{"src":"/demo-sell-my-car/images/error/404-dark.svg","alt":"404","className":"hidden dark:block","width":472,"height":152}]
 9:["$","p",null,{"className":"mt-10 mb-6 text-base text-gray-700 dark:text-gray-400 sm:text-lg","children":"We can’t seem to find the page you are looking for!"}]
 a:["$","$L7",null,{"href":"/panel","className":"inline-flex items-center justify-center rounded-lg border border-gray-300 bg-white px-5 py-3.5 text-sm font-medium text-gray-700 shadow-theme-xs hover:bg-gray-50 hover:text-gray-800 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-white/[0.03] dark:hover:text-gray-200","children":"Back to Home Page"}]
 b:["$","p",null,{"className":"absolute text-sm text-center text-gray-500 -translate-x-1/2 bottom-6 left-1/2 dark:text-gray-400","children":["© ",2026," - SellMyCars"]}]
 c:["$","$L1b",null,{}]
-d:["$","$L1c","/assets/js/jquery-3.7.1.min.js",{"src":"/assets/js/jquery-3.7.1.min.js","strategy":"afterInteractive"}]
-e:["$","$L1c","/assets/js/boostrap.bundle.min.js",{"src":"/assets/js/boostrap.bundle.min.js","strategy":"afterInteractive"}]
-f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle.min.js","strategy":"afterInteractive"}]
-10:["$","$L1c","/assets/js/aos.js",{"src":"/assets/js/aos.js","strategy":"afterInteractive"}]
-11:["$","$L1c","/assets/js/magnific-popup.min.js",{"src":"/assets/js/magnific-popup.min.js","strategy":"afterInteractive"}]
-12:["$","$L1c","/assets/js/counterup.min.js",{"src":"/assets/js/counterup.min.js","strategy":"afterInteractive"}]
-13:["$","$L1c","/assets/js/count-down.js",{"src":"/assets/js/count-down.js","strategy":"afterInteractive"}]
-14:["$","$L1c","/assets/js/gsap-plugin.js",{"src":"/assets/js/gsap-plugin.js","strategy":"afterInteractive"}]
-15:["$","$L1c","/assets/js/custom-gsap.js",{"src":"/assets/js/custom-gsap.js","strategy":"afterInteractive"}]
-16:["$","$L1c","/assets/js/main.js",{"src":"/assets/js/main.js","strategy":"afterInteractive"}]
+d:["$","$L1c","/demo-sell-my-car/assets/js/jquery-3.7.1.min.js",{"src":"/demo-sell-my-car/assets/js/jquery-3.7.1.min.js","strategy":"afterInteractive"}]
+e:["$","$L1c","/demo-sell-my-car/assets/js/boostrap.bundle.min.js",{"src":"/demo-sell-my-car/assets/js/boostrap.bundle.min.js","strategy":"afterInteractive"}]
+f:["$","$L1c","/demo-sell-my-car/assets/js/swiper-bundle.min.js",{"src":"/demo-sell-my-car/assets/js/swiper-bundle.min.js","strategy":"afterInteractive"}]
+10:["$","$L1c","/demo-sell-my-car/assets/js/aos.js",{"src":"/demo-sell-my-car/assets/js/aos.js","strategy":"afterInteractive"}]
+11:["$","$L1c","/demo-sell-my-car/assets/js/magnific-popup.min.js",{"src":"/demo-sell-my-car/assets/js/magnific-popup.min.js","strategy":"afterInteractive"}]
+12:["$","$L1c","/demo-sell-my-car/assets/js/counterup.min.js",{"src":"/demo-sell-my-car/assets/js/counterup.min.js","strategy":"afterInteractive"}]
+13:["$","$L1c","/demo-sell-my-car/assets/js/count-down.js",{"src":"/demo-sell-my-car/assets/js/count-down.js","strategy":"afterInteractive"}]
+14:["$","$L1c","/demo-sell-my-car/assets/js/gsap-plugin.js",{"src":"/demo-sell-my-car/assets/js/gsap-plugin.js","strategy":"afterInteractive"}]
+15:["$","$L1c","/demo-sell-my-car/assets/js/custom-gsap.js",{"src":"/demo-sell-my-car/assets/js/custom-gsap.js","strategy":"afterInteractive"}]
+16:["$","$L1c","/demo-sell-my-car/assets/js/main.js",{"src":"/demo-sell-my-car/assets/js/main.js","strategy":"afterInteractive"}]
 17:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 18:["$","$1","c",{"children":["$L1d",null,["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]]}]
 19:["$","$1","h",{"children":[null,["$","$L21",null,{"children":"$L22"}],["$","div",null,{"hidden":true,"children":["$","$L23",null,{"children":["$","$1f",null,{"name":"Next.Metadata","children":"$L24"}]}]}],null]}]
@@ -44,7 +44,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
     <div class="loader-mask">
         <div class="loader-center d-flex flex-column align-items-center tw-gap-8">
             <div class="">
-                <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
             </div>
             <div class="loader">
                 <div></div>
@@ -92,7 +92,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
         <div class="mobile-menu__inner ">
             <div class="tw-p-6 bg-main">
                 <a href="/" class="mobile-menu__logo">
-                    <img src="/assets/images/logo-white.png" alt="Logo">
+                    <img src="/demo-sell-my-car/assets/images/logo-white.png" alt="Logo">
                 </a>
             </div>
             <div class="mobile-menu__menu tw-p-6 ">
@@ -124,7 +124,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                 <!-- Logo Start -->
                 <div class="logo">
                     <a href="/" class="link">
-                        <img src="/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
+                        <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="Logo" class="logo-w-200-px">
                     </a>
                 </div>
                 <!-- Logo End  -->
@@ -157,7 +157,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                         <div class="phone-info d-xxl-flex d-none align-items-center tw-gap-205">
                             <span
                                 class="d-flex tw-w-10 tw-h-10 bg-main rounded-circle justify-content-center align-items-center">
-                                <img src="/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
+                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white.png" alt="Phone Icon">
                             </span>
                             <a href="tel:045798079" class="text-white fw-bold hover-underline text-lg-res">045798079</a>
                         </div>
@@ -222,7 +222,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                 <!-- ========================== About section start ============================== -->
                 <section class="about py-110 position-relative overflow-hidden">
                     <div class="position-absolute top-0 tw-start-0 tw-mt-16 tw-ms-11">
-                        <img src="/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
+                        <img src="/demo-sell-my-car/assets/images/shapes/wheel-spot-shape.png" alt="Wheel Spot Shape Image"
                             class="animated-upDown">
                     </div>
                     <div class="container">
@@ -233,7 +233,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                         <div class="col-6">
                                             <div class="d-flex flex-column tw-gap-4 position-relative">
                                                 <div class="position-absolute tw-start-0 top-0 tw-mt-15 tw-pt-7">
-                                                    <img src="/assets/images/shapes/circle-shape.png" alt="Circle Shape"
+                                                    <img src="/demo-sell-my-car/assets/images/shapes/circle-shape.png" alt="Circle Shape"
                                                         class="animation-rotate-right">
                                                 </div>
                                                 <div class="text-end flex-shrink-0 flex-grow-1">
@@ -242,7 +242,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img1.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img1.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -254,7 +254,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                                     <div class="split-reveal-element origin-left">
                                                         <div
                                                             class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                            <img src="/assets/images/thumbs/about-one-img2.png"
+                                                            <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img2.png"
                                                                 class="object-fit-cover scale-up__img w-100 h-100"
                                                                 alt="Agency Video Image">
                                                         </div>
@@ -270,7 +270,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                                         <div class="split-reveal-element origin-left">
                                                             <div
                                                                 class="hover-animation-white scale-up-wrapper position-relative overflow-hidden">
-                                                                <img src="/assets/images/thumbs/about-one-img3.png"
+                                                                <img src="/demo-sell-my-car/assets/images/thumbs/about-one-img3.png"
                                                                     class="object-fit-cover scale-up__img w-100 h-100"
                                                                     alt="Agency Video Image">
                                                             </div>
@@ -283,7 +283,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                                         class="border tw-border-dashed border-white tw-rounded-3xl tw-p-32-px">
                                                         <div class="d-flex align-items-center tw-gap-205 flex-wrap">
                                                             <span class="">
-                                                                <img src="/assets/images/icons/rounded-star-icon.png"
+                                                                <img src="/demo-sell-my-car/assets/images/icons/rounded-star-icon.png"
                                                                     alt="Rounded Star Icon">
                                                             </span>
                                                             <h2 class="h2 text-white">99%</h2>
@@ -469,7 +469,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
 
                                     <div class="tw-mt-10" data-aos="fade-up" data-aos-duration="800"
                                         data-aos-delay="500">
-                                        <a href="/assets/images/sellmycars-company-profile.pdf" target="_blank"
+                                        <a href="/demo-sell-my-car/assets/images/sellmycars-company-profile.pdf" target="_blank"
                                             class="btn btn-main-two hover-style-three button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 text-uppercase fw-bolder button-shape tw-tracking-2-percent"
                                             data-block="button">
                                             <span class="button__flair"></span>
@@ -491,7 +491,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                 <footer class="footer position-relative z-1 mt-auto overflow-hidden">
                     <div class="pb-80-px pt-110 bg-dark-light-three position-relative z-1">
                         <div class="position-absolute tw-start-0 tw-end-0 h-100 w-100 z-n1">
-                            <img src="/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
+                            <img src="/demo-sell-my-car/assets/images/bg/dotted-glob-bg.png" alt="Dotted Glob">
                         </div>
 
                         <div class="container container-two">
@@ -501,7 +501,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                 <div class="col-xl-3 col-lg-4 col-md-6">
                                     <div class="max-w-370-px">
                                         <a href="/">
-                                            <img src="/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
+                                            <img src="/demo-sell-my-car/assets/images/logo/logo.png" alt="SELLMYCARS UAE">
                                         </a>
 
                                         <p class="text-dark-light tw-mt-8 fw-medium">
@@ -514,7 +514,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
                                         <div class="phone-info d-flex align-items-center tw-gap-3 tw-mt-6">
                                             <span
                                                 class="d-flex tw-w-14 tw-h-14 bg-main rounded-circle justify-content-center align-items-center flex-shrink-0">
-                                                <img src="/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
+                                                <img src="/demo-sell-my-car/assets/images/icons/phone-icon-white2.png" alt="Phone Icon">
                                             </span>
 
                                             <a href="tel:+045798079"
@@ -664,7 +664,7 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
     <a href="https://api.whatsapp.com/send?phone=0586494455&text=Hi%20SELLMYCARS%20Team,%20I%20would%20like%20to%20get%20a%20vehicle%20valuation."
         target="_blank" rel="noopener noreferrer" aria-label="Chat with us on WhatsApp" class="whatsapp-sticky-btn">
 
-        <img src="/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
+        <img src="/demo-sell-my-car/assets/images/thumbs/whatsapp.png" alt="WhatsApp" class="whatsapp-icon">
     </a>
 
     <style>
@@ -712,4 +712,4 @@ f:["$","$L1c","/assets/js/swiper-bundle.min.js",{"src":"/assets/js/swiper-bundle
 22:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 26:I[27201,["/demo-sell-my-car/_next/static/chunks/ff1a16fafef87110.js","/demo-sell-my-car/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
 20:null
-24:[["$","title","0",{"children":"SellMyCars — Sell or Buy Your Car in the UAE"}],["$","meta","1",{"name":"description","content":"Get an instant vehicle valuation, book an inspection, and sell or buy your car with SellMyCars."}],["$","link","2",{"rel":"icon","href":"/assets/images/logo/favicon.png"}],["$","$L26","3",{}]]
+24:[["$","title","0",{"children":"SellMyCars — Sell or Buy Your Car in the UAE"}],["$","meta","1",{"name":"description","content":"Get an instant vehicle valuation, book an inspection, and sell or buy your car with SellMyCars."}],["$","link","2",{"rel":"icon","href":"/demo-sell-my-car/assets/images/logo/favicon.png"}],["$","$L26","3",{}]]
