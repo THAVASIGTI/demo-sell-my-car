@@ -1,9 +1,9 @@
-:HL["/sellmycars-dashboard/_next/static/chunks/68aa0fee38862b60.css","style"]
-:HL["/sellmycars-dashboard/_next/static/chunks/0781faae427c77ef.css","style"]
+:HL["/demo-sell-my-car/_next/static/chunks/68aa0fee38862b60.css","style"]
+:HL["/demo-sell-my-car/_next/static/chunks/0781faae427c77ef.css","style"]
 :HL["/assets/css/bootstrap.min.css","style"]
 :HL["/assets/css/fontawesome.min.css","style"]
 :HL["/assets/css/aos.css","style"]
 :HL["/assets/css/swiper-bundle.min.css","style"]
 :HL["/assets/css/magnific-popup.css","style"]
 :HL["/assets/css/main.css","style"]
-0:{"buildId":"Num-2Hh8IPdwAWBzLu29J","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(site)","paramType":null,"paramKey":"(site)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"syf3a_evNjta17dEFxXYO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(site)","paramType":null,"paramKey":"(site)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
